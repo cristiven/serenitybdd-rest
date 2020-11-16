@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d9e93a85-d7c9-48de-a519-faccb85f48a9" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1hQeGsXm3vTOvMccuRCE5h1Tzbe" />
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../serenitybddrestinspanishtraining" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Usuario\Projects\serenitybddrest\src\test\java" />
+      <recent name="C:\Users\Usuario\Projects\serenitybddrest\src" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.testautomation.models" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Usuario\Projects\serenitybddrest\src" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Cucumber java.Scenario: Cliente paga servicio de internet que ya esta vencido">
+    <configuration name="Scenario: Cliente intenta pagar el servicio de gas" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="2" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/pago_de_facturas.feature" />
+      <option name="GLUE" value="net.serenitybdd.cucumber.actors hooks" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="serenitybddrest" />
+      <option name="NAME_FILTER" value="^Cliente intenta pagar el servicio de gas$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm2SMFormatter --monochrome --name &quot;^Cliente intenta pagar el servicio de gas$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Cliente intenta pagar el servicio de gas" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: Cliente intenta pagar el servicio de la electricidad sin saldo en su cuenta de ahorros" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="2" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/pago_de_facturas.feature" />
+      <option name="GLUE" value="net.serenitybdd.cucumber.actors hooks com.testautomation.stepdefinitions" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="serenitybddrest" />
+      <option name="NAME_FILTER" value="^Cliente intenta pagar el servicio de la electricidad sin saldo en su cuenta de ahorros$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm2SMFormatter --monochrome --name &quot;^Cliente intenta pagar el servicio de la electricidad sin saldo en su cuenta de ahorros$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Cliente intenta pagar el servicio de la electricidad sin saldo en su cuenta de ahorros" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: Cliente paga servicio de internet que ya esta vencido" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="2" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/pago_de_facturas.feature" />
+      <option name="GLUE" value="net.serenitybdd.cucumber.actors hooks com.testautomation.stepdefinitions" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="serenitybddrest" />
+      <option name="NAME_FILTER" value="^Cliente paga servicio de internet que ya esta vencido$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm2SMFormatter --monochrome --name &quot;^Cliente paga servicio de internet que ya esta vencido$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Cliente paga servicio de internet que ya esta vencido" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: Cliente retira dinero de su cuenta de ahorros" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="2" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/retiro_de_dinero.feature" />
+      <option name="GLUE" value="net.serenitybdd.cucumber.actors hooks com.testautomation.stepdefinitions" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="serenitybddrest" />
+      <option name="NAME_FILTER" value="^Cliente retira dinero de su cuenta de ahorros$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm2SMFormatter --monochrome --name &quot;^Cliente retira dinero de su cuenta de ahorros$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Cliente retira dinero de su cuenta de ahorros" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: " type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="2" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/pago_de_facturas.feature" />
+      <option name="GLUE" value="net.serenitybdd.cucumber.actors hooks" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="serenitybddrest" />
+      <option name="NAME_FILTER" value="^$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm2SMFormatter --monochrome --name &quot;^$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: " />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Cucumber java.Scenario: Cliente retira dinero de su cuenta de ahorros" />
+      <item itemvalue="Cucumber java.Scenario: " />
+      <item itemvalue="Cucumber java.Scenario: Cliente intenta pagar el servicio de gas" />
+      <item itemvalue="Cucumber java.Scenario: Cliente intenta pagar el servicio de la electricidad sin saldo en su cuenta de ahorros" />
+      <item itemvalue="Cucumber java.Scenario: Cliente paga servicio de internet que ya esta vencido" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Cucumber java.Scenario: Cliente paga servicio de internet que ya esta vencido" />
+        <item itemvalue="Cucumber java.Scenario: Cliente intenta pagar el servicio de la electricidad sin saldo en su cuenta de ahorros" />
+        <item itemvalue="Cucumber java.Scenario: Cliente intenta pagar el servicio de gas" />
+        <item itemvalue="Cucumber java.Scenario: " />
+        <item itemvalue="Cucumber java.Scenario: Cliente retira dinero de su cuenta de ahorros" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d9e93a85-d7c9-48de-a519-faccb85f48a9" name="Default Changelist" comment="" />
+      <created>1599947650392</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599947650392</updated>
+    </task>
+    <servers />
+  </component>
+</project>
