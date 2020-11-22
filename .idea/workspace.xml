@@ -1,39 +1,125 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d9e93a85-d7c9-48de-a519-faccb85f48a9" name="Default Changelist" comment="" />
+    <list default="true" id="7496c174-5ce5-4a66-a0b9-4535b8730d2c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/$PRODUCT_WORKSPACE_FILE$" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/3/031c502c800c21be3733421faf429f5384a62e60" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/8/08995546ead6945122b2656db70ec8b84d51782a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/a/0a995a022329bb6c327eb3043e285a5f1a6068e5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/d/1d65e67bb4952d57c07352af45b34ed10e9933e6" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/7/27eaeae2d030b48378c756ad4409adac0d983b7f" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/b/2b701aeba9d8d634dd4b72c1464dd1ade5274dec" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/f/2fd269c43517052d383370cfda033c95ed845d3b" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/8/38a00f680f4bd4d336ff3c34448860ece2c1c328" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/e/3ebc1be5c229314226deb8988820d0a1a0c2f173" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/7/6767d3f08c86437ba1ed26b1b0cb82218be232f2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/c/6c6fbd3b00c46b61c451550c2c2073b513e50842" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/a/7a104dc19a349ca75a37bf56b0814a982b20fb14" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/0/80549db8eb180f24f4b925482dfd9aa70a0f9e91" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/4/84a34f899244d2e5f64da86e8f797b89ab035160" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/a/9ab5de81f9f2e3bbb96942a4e578953826ecc51e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/b/9b933c373430e39c706521c6bcc0722b7e954883" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/6/a679441272a222de882330b46bce66e9abf762a7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/3/b300a24edf3a069a4b3e295e993ef5013574ec29" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/4/b4f42d58ed01fb28edfa5d099c9c74a99485dae5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/9/b9acfaf9f26a8f702a5eb00e42e5bf07405399cb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/2/c2eebb46507e7e72fe3fe128c75020f9864ca11a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/9/c9a8e63802860af07d7c7e6e85d01e81d3fab1fc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/6/d68b004cb909909e8efb47425a4db81d23157ba5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/5/e5ff4773de31669515058701f8ae4a7a3b8d6f00" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/8/e830425851d45d6be8b357dcbf77f8f221bb6c7e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/c/ecd23901c1c864c50bc0f0cc4288abaa3adc7281" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/serenitybddrest.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/com/testautomation/abilities/InteractWithDb.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/com/testautomation/builders/FooBuilder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/com/testautomation/database/DatabaseConnectionInfo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/com/testautomation/database/DatabaseType.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/com/testautomation/database/entity/Example.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/com/testautomation/database/persistence/manager/HibernatePersistenceUnitInfo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/com/testautomation/database/persistence/manager/JpaEntityManagerFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/com/testautomation/facts/NetflixPlans.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/com/testautomation/interactions/Post.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/com/testautomation/models/Account.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/com/testautomation/models/Foo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/com/testautomation/models/Money.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/com/testautomation/questions/GetUsersQuestion.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/com/testautomation/questions/ResponseCode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/com/testautomation/stepdefinitions/PayUtilitiesStepDefiitions.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/com/testautomation/stepdefinitions/QuestionsStepDefinition.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/com/testautomation/stepdefinitions/RegisterUserStepDefinitions.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/com/testautomation/stepdefinitions/WithdrawStepDefinitions.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/com/testautomation/tasks/GetUsers.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/com/testautomation/tasks/RegisterUser.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/com/testautomation/tasks/UpdateUser.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/com/testautomation/transformers/MoneyConverter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/com/testautomation/users/Datum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/com/testautomation/users/RegisterUserInfo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/com/testautomation/users/UpdateUserInfo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/com/testautomation/users/Users.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/CucumberTestSuite.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/CucumberTestSuite.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/SerenityInitialTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/hooks/CommonHooks.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/hooks/CommonHooks.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/hooks/OtpHooks.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/hooks/OtpHooks.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/features/question.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/features/registro_de_usuarios.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/features/registro_de_usuarios.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/features/retiro_de_dinero.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/features/retiro_de_dinero.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/testautomation/builders/FooBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/testautomation/builders/FooBuilder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/testautomation/database/DatabaseConnectionInfo$DatabaseConnectionInfoBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/testautomation/database/DatabaseConnectionInfo$DatabaseConnectionInfoBuilder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/testautomation/database/DatabaseConnectionInfo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/testautomation/database/DatabaseConnectionInfo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/testautomation/database/entity/Example.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/testautomation/database/entity/Example.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/testautomation/database/persistence/manager/JpaEntityManagerFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/testautomation/database/persistence/manager/JpaEntityManagerFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/testautomation/facts/NetflixPlans.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/testautomation/facts/NetflixPlans.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/testautomation/interactions/Post.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/testautomation/interactions/Post.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/testautomation/models/Account.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/testautomation/models/Account.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/testautomation/models/Foo$FooBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/testautomation/models/Foo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/testautomation/questions/GetUsersQuestion.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/testautomation/questions/GetUsersQuestion.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/testautomation/questions/ResponseCode.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/testautomation/questions/ResponseCode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/testautomation/stepdefinitions/PayUtilitiesStepDefiitions.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/testautomation/stepdefinitions/RegisterUserStepDefinitions.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/testautomation/stepdefinitions/RegisterUserStepDefinitions.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/testautomation/stepdefinitions/WithdrawStepDefinitions.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/testautomation/stepdefinitions/WithdrawStepDefinitions.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/testautomation/tasks/GetUsers.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/testautomation/tasks/GetUsers.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/testautomation/tasks/RegisterUser$RegisterUserBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/testautomation/tasks/RegisterUser$RegisterUserBuilder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/testautomation/tasks/RegisterUser.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/testautomation/tasks/RegisterUser.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/testautomation/tasks/UpdateUser.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/testautomation/users/Datum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/testautomation/users/RegisterUserInfo$RegisterUserInfoBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/testautomation/users/RegisterUserInfo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/testautomation/users/UpdateUserInfo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/testautomation/users/Users.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/2e6a71f02f9aa783f71ba9bc1eeb63f464bc3cadb46181a083a03b18c75679a7.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/2e6a71f02f9aa783f71ba9bc1eeb63f464bc3cadb46181a083a03b18c75679a7.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/868d488b989eadf3c22960d3c2899037e8da75fe1ba6f25ed14af6f1d2af30af.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/868d488b989eadf3c22960d3c2899037e8da75fe1ba6f25ed14af6f1d2af30af.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/SERENITY-JUNIT-2e6a71f02f9aa783f71ba9bc1eeb63f464bc3cadb46181a083a03b18c75679a7.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/SERENITY-JUNIT-868d488b989eadf3c22960d3c2899037e8da75fe1ba6f25ed14af6f1d2af30af.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/SerenityInitialTests.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/features/registro_de_usuarios.feature" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/features/registro_de_usuarios.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/features/retiro_de_dinero.feature" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/features/retiro_de_dinero.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/hooks/CommonHooks.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/hooks/CommonHooks.class" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Class" />
-      </list>
-    </option>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="1hQeGsXm3vTOvMccuRCE5h1Tzbe" />
+  <component name="ProjectId" id="1kf2RBIrhvygP1jzTykS5ALwMff" />
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../serenitybddrestinspanishtraining" />
-    <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
-  </component>
-  <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Usuario\Projects\serenitybddrest\src\test\java" />
-      <recent name="C:\Users\Usuario\Projects\serenitybddrest\src" />
-    </key>
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="com.testautomation.models" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\Usuario\Projects\serenitybddrest\src" />
-    </key>
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../serenitybddrest" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -47,116 +133,19 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Cucumber java.Scenario: Cliente paga servicio de internet que ya esta vencido">
-    <configuration name="Scenario: Cliente intenta pagar el servicio de gas" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
-      <option name="CUCUMBER_CORE_VERSION" value="2" />
-      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/pago_de_facturas.feature" />
-      <option name="GLUE" value="net.serenitybdd.cucumber.actors hooks" />
-      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
-      <module name="serenitybddrest" />
-      <option name="NAME_FILTER" value="^Cliente intenta pagar el servicio de gas$" />
-      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm2SMFormatter --monochrome --name &quot;^Cliente intenta pagar el servicio de gas$&quot;" />
-      <option name="SUGGESTED_NAME" value="Scenario: Cliente intenta pagar el servicio de gas" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="cucumber.api.cli.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+  <component name="RunManager">
+    <configuration name="CucumberTestSuite" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="serenitybddrestinspanishtraining" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="CucumberTestSuite" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Scenario: Cliente intenta pagar el servicio de la electricidad sin saldo en su cuenta de ahorros" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
-      <option name="CUCUMBER_CORE_VERSION" value="2" />
-      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/pago_de_facturas.feature" />
-      <option name="GLUE" value="net.serenitybdd.cucumber.actors hooks com.testautomation.stepdefinitions" />
-      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
-      <module name="serenitybddrest" />
-      <option name="NAME_FILTER" value="^Cliente intenta pagar el servicio de la electricidad sin saldo en su cuenta de ahorros$" />
-      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm2SMFormatter --monochrome --name &quot;^Cliente intenta pagar el servicio de la electricidad sin saldo en su cuenta de ahorros$&quot;" />
-      <option name="SUGGESTED_NAME" value="Scenario: Cliente intenta pagar el servicio de la electricidad sin saldo en su cuenta de ahorros" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="cucumber.api.cli.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Scenario: Cliente paga servicio de internet que ya esta vencido" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
-      <option name="CUCUMBER_CORE_VERSION" value="2" />
-      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/pago_de_facturas.feature" />
-      <option name="GLUE" value="net.serenitybdd.cucumber.actors hooks com.testautomation.stepdefinitions" />
-      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
-      <module name="serenitybddrest" />
-      <option name="NAME_FILTER" value="^Cliente paga servicio de internet que ya esta vencido$" />
-      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm2SMFormatter --monochrome --name &quot;^Cliente paga servicio de internet que ya esta vencido$&quot;" />
-      <option name="SUGGESTED_NAME" value="Scenario: Cliente paga servicio de internet que ya esta vencido" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="cucumber.api.cli.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Scenario: Cliente retira dinero de su cuenta de ahorros" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
-      <option name="CUCUMBER_CORE_VERSION" value="2" />
-      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/retiro_de_dinero.feature" />
-      <option name="GLUE" value="net.serenitybdd.cucumber.actors hooks com.testautomation.stepdefinitions" />
-      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
-      <module name="serenitybddrest" />
-      <option name="NAME_FILTER" value="^Cliente retira dinero de su cuenta de ahorros$" />
-      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm2SMFormatter --monochrome --name &quot;^Cliente retira dinero de su cuenta de ahorros$&quot;" />
-      <option name="SUGGESTED_NAME" value="Scenario: Cliente retira dinero de su cuenta de ahorros" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="cucumber.api.cli.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Scenario: " type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
-      <option name="CUCUMBER_CORE_VERSION" value="2" />
-      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/pago_de_facturas.feature" />
-      <option name="GLUE" value="net.serenitybdd.cucumber.actors hooks" />
-      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
-      <module name="serenitybddrest" />
-      <option name="NAME_FILTER" value="^$" />
-      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm2SMFormatter --monochrome --name &quot;^$&quot;" />
-      <option name="SUGGESTED_NAME" value="Scenario: " />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="cucumber.api.cli.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <list>
-      <item itemvalue="Cucumber java.Scenario: Cliente retira dinero de su cuenta de ahorros" />
-      <item itemvalue="Cucumber java.Scenario: " />
-      <item itemvalue="Cucumber java.Scenario: Cliente intenta pagar el servicio de gas" />
-      <item itemvalue="Cucumber java.Scenario: Cliente intenta pagar el servicio de la electricidad sin saldo en su cuenta de ahorros" />
-      <item itemvalue="Cucumber java.Scenario: Cliente paga servicio de internet que ya esta vencido" />
-    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Cucumber java.Scenario: Cliente paga servicio de internet que ya esta vencido" />
-        <item itemvalue="Cucumber java.Scenario: Cliente intenta pagar el servicio de la electricidad sin saldo en su cuenta de ahorros" />
-        <item itemvalue="Cucumber java.Scenario: Cliente intenta pagar el servicio de gas" />
-        <item itemvalue="Cucumber java.Scenario: " />
-        <item itemvalue="Cucumber java.Scenario: Cliente retira dinero de su cuenta de ahorros" />
+        <item itemvalue="JUnit.CucumberTestSuite" />
       </list>
     </recent_temporary>
   </component>
@@ -165,12 +154,25 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="d9e93a85-d7c9-48de-a519-faccb85f48a9" name="Default Changelist" comment="" />
-      <created>1599947650392</created>
+      <changelist id="7496c174-5ce5-4a66-a0b9-4535b8730d2c" name="Default Changelist" comment="" />
+      <created>1606077314465</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1599947650392</updated>
+      <updated>1606077314465</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

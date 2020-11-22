@@ -1,4 +1,4 @@
 package hooks;
 
-public class OtpHooks{
+public class OtpHooks {
 }

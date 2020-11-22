@@ -7,6 +7,6 @@ Feature: Retiro de dinero
 
     Given Pepito es un cliente con una cuenta de ahorros
     And en su cuenta tiene un saldo disponible de 1000000.00
-    #When el intenta retirar de su cuenta 100000
-    #Then el deberia obtener 100000
-    #And el nuevo saldo de su cuenta deberia ser 900000
+   # When el intenta retirar de su cuenta 100000
+   # Then el deberia obtener 100000
+   # And el nuevo saldo de su cuenta deberia ser 900000

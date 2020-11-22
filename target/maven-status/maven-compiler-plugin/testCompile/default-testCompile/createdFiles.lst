@@ -1,0 +1,5 @@
+com\testautomation\SerenityBddTest.class
+CucumberTestSuite.class
+hooks\DatabaseHooks.class
+hooks\OtpHooks.class
+hooks\CommonHooks.class
