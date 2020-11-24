@@ -1,5 +1,5 @@
 # serenitybddrest
-fuente: https://www.youtube.com/playlist?list=PLeo6Q1inqlOeti5rRcCvKbB_WDymxcAXO
+Serenity DBB Rest Assured
 
 
 ## Requirements

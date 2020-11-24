@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7496c174-5ce5-4a66-a0b9-4535b8730d2c" name="Default Changelist" comment="" />
+    <list default="true" id="7496c174-5ce5-4a66-a0b9-4535b8730d2c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/testautomation/models/users/RegisterUserInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/testautomation/models/users/RegisterUserInfo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/testautomation/stepdefinitions/RegisterUserStepDefinitions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/testautomation/stepdefinitions/RegisterUserStepDefinitions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/testautomation/tasks/RegisterUser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/testautomation/tasks/RegisterUser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/testautomation/SerenityBddTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/testautomation/SerenityBddTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/testautomation/stepdefinitions/RegisterUserStepDefinitions.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/testautomation/stepdefinitions/RegisterUserStepDefinitions.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/testautomation/tasks/RegisterUser$RegisterUserBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/testautomation/tasks/RegisterUser.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/testautomation/tasks/RegisterUser.class" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,7 +37,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JUnit.CucumberTestSuite">
     <configuration name="CucumberTestSuite" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="serenitybddrestinspanishtraining" />
       <option name="PACKAGE_NAME" value="" />
@@ -37,9 +47,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SerenityBddTest.dataBaseConnectionTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="serenitybddrestinspanishtraining" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.testautomation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.testautomation" />
+      <option name="MAIN_CLASS_NAME" value="com.testautomation.SerenityBddTest" />
+      <option name="METHOD_NAME" value="dataBaseConnectionTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="JUnit.CucumberTestSuite" />
+        <item itemvalue="JUnit.SerenityBddTest.dataBaseConnectionTest" />
       </list>
     </recent_temporary>
   </component>

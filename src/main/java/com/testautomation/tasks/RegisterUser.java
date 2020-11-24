@@ -4,23 +4,27 @@ import com.testautomation.interactions.Post;
 import com.testautomation.models.users.RegisterUserInfo;
 import io.restassured.http.ContentType;
 import net.serenitybdd.screenplay.Actor;
+import net.serenitybdd.screenplay.Performable;
 import net.serenitybdd.screenplay.Task;
+
+import static net.serenitybdd.screenplay.Tasks.instrumented;
 
 public class RegisterUser implements Task {
 
-    private final RegisterUserInfo userInfo;
+    private final Object userInfo;
 
     public RegisterUser(RegisterUserInfo userInfo) {
         this.userInfo = userInfo;
     }
 
-    /*public static Performable withInfo(RegisterUserInfo userInfo) {
+    public static Performable withInfo(RegisterUserInfo userInfo) {
         return instrumented(RegisterUser.class, userInfo);
-    }*/
+    }
 
+    /*
     public static RegisterUserBuilder withName(String name) {
         return new RegisterUserBuilder(name);
-    }
+    }*/
 
     @Override
     public <T extends Actor> void performAs(T actor) {
@@ -33,6 +37,7 @@ public class RegisterUser implements Task {
         );
     }
 
+    /*
     public static class RegisterUserBuilder {
 
         private String name;
@@ -68,4 +73,5 @@ public class RegisterUser implements Task {
                     .build());
         }
     }
+    */
 }

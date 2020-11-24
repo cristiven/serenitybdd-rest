@@ -1,5 +1,6 @@
 package com.testautomation.stepdefinitions;
 
+import com.testautomation.models.users.RegisterUserInfo;
 import com.testautomation.questions.ResponseCode;
 import com.testautomation.tasks.RegisterUser;
 import cucumber.api.java.en.Given;
@@ -18,6 +19,7 @@ public class RegisterUserStepDefinitions {
 
     @Given("^Pepito es un cliente que quiere poder administrar sus productos bancarios$")
     public void pepitoEsUnClienteQueQuierePoderAdministrarSusProductosBancarios() {
+        //  Actor que se le da la Habilidad de poder comunicarse con la Api
         pepito = Actor.named("Pepito the trainer")
                 .whoCan(CallAnApi.at(restApiUrl));
 
@@ -25,6 +27,32 @@ public class RegisterUserStepDefinitions {
 
     @When("^el envia la informacion requerida para el registro$")
     public void elEnviaLaInformacionRequeridaParaElRegistro() {
+        /*Actor pepito = Actor.named("Pepito the trainer")
+                .whoCan(CallAnApi.at(restApiUrl));
+
+        String registerUserInfo = "{\n" +
+                "    \"name\": \"morpheus\",\n" +
+                "    \"job\": \"leader\",\n" +
+                "    \"email\": \"tracey.ramos@reqres.in\",\n" +
+                "    \"password\": \"serenity\"\n" +
+                "}";
+        */
+
+        RegisterUserInfo registerUserInfo = new RegisterUserInfo();
+
+        registerUserInfo.setName("morpheus");
+        registerUserInfo.setJob("leader");
+        registerUserInfo.setEmail("tracey.ramos@reqres.in");
+        registerUserInfo.setPassword("serenity");
+
+        // Se invoca la tarea
+        pepito.attemptsTo(
+                RegisterUser.withInfo(registerUserInfo)
+        );
+
+
+        /*
+        Otra manera de hacerlo pero usando loombok
         pepito.attemptsTo(
                 RegisterUser
                         .withName("morpheus")
@@ -32,6 +60,7 @@ public class RegisterUserStepDefinitions {
                         .andPassword("security")
                         .andJob("leader")
         );
+        */
 
     }
 
