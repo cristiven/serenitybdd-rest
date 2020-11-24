@@ -14,7 +14,7 @@ import static org.hamcrest.CoreMatchers.equalTo;
 
 public class RegisterUserStepDefinitions {
 
-    private final String restApiUrl = "http://localhost:5000/api";
+    private final String restApiUrl = "https://reqres.in/api";
     Actor pepito;
 
     @Given("^Pepito es un cliente que quiere poder administrar sus productos bancarios$")
