@@ -3,14 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="7496c174-5ce5-4a66-a0b9-4535b8730d2c" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/testautomation/models/users/RegisterUserInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/testautomation/models/users/RegisterUserInfo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/testautomation/stepdefinitions/RegisterUserStepDefinitions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/testautomation/stepdefinitions/RegisterUserStepDefinitions.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/testautomation/tasks/RegisterUser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/testautomation/tasks/RegisterUser.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/testautomation/SerenityBddTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/testautomation/SerenityBddTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/testautomation/stepdefinitions/RegisterUserStepDefinitions.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/testautomation/stepdefinitions/RegisterUserStepDefinitions.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/testautomation/tasks/RegisterUser$RegisterUserBuilder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/testautomation/tasks/RegisterUser.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/testautomation/tasks/RegisterUser.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
